@@ -8,7 +8,7 @@ Problem Statement : Identify 120 different breeds of dogs.
 
 <b><h3>Approach :</h3></b>
 
-<br>The train folder is divided into training and validation dataset.
+The train folder is divided into training and validation dataset.
 <br>The split between training dataset and validation dataset is 80:20.
 <br>All the image files are sorted into their respective breed's folder located in train and valid folder.
 
